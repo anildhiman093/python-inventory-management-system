@@ -1,2 +1,16 @@
-# python-inventory-management-system
-A simple inventory management system built with Python. Supports product CRUD, stock tracking, low-stock alerts, and CSV-based persistence. Ideal for small businesses and learning backend logic.
+# Python Inventory Management System
+
+A CLI-based inventory management system built using Python.
+
+## Features
+- Add, view, and manage products
+- Track stock quantity
+- Low stock alerts
+- CSV file-based storage
+
+## Tech Stack
+- Python 3
+- CSV module
+
+## Use Case
+Small shops, warehouses, and beginners learning backend logic.
